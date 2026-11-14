@@ -1,0 +1,6 @@
+{
+  "name": "靜刻 Kanso — 極簡番茄鐘與待辦事項",
+  "description": "結合專注番茄鐘計時器與待辦清單的極簡高效工作空間。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
